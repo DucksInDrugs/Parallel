@@ -18,12 +18,18 @@
     <ClCompile Include="Parallel.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="Concurrent_Simps.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Task1.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
     <ClInclude Include="Task1_1.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="Concurrent_Simps.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
   </ItemGroup>

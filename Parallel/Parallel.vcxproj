@@ -127,9 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Concurrent_Simps.cpp" />
     <ClCompile Include="Parallel.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Concurrent_Simps.h" />
     <ClInclude Include="Task1.h" />
     <ClInclude Include="Task1_1.h" />
   </ItemGroup>

@@ -1,4 +1,5 @@
 #include <math.h>
+
 double TaskOne(int x)
 {
 	double ans = 0;
